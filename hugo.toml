@@ -1,4 +1,4 @@
-baseURL = 'https://peng-yo.github.io/'
+baseURL = 'https://peng-yo.github.io/peng-yo'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
