@@ -2,20 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://peng-yo.github.io/peng-yo/</link>
+    <link>https://peng-yo.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2023 20:12:25 +0800</lastBuildDate><atom:link href="https://peng-yo.github.io/peng-yo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 20:12:25 +0800</lastBuildDate><atom:link href="https://peng-yo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Posts</title>
-      <link>https://peng-yo.github.io/peng-yo/posts/first-posts/</link>
+      <link>https://peng-yo.github.io/posts/first-posts/</link>
       <pubDate>Mon, 04 Sep 2023 20:12:25 +0800</pubDate>
       
-      <guid>https://peng-yo.github.io/peng-yo/posts/first-posts/</guid>
+      <guid>https://peng-yo.github.io/posts/first-posts/</guid>
       <description>Introduction hello, this is my frist post</description>
       <content>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;hello, this is my frist post&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>48Laws.org</title>
+      <link>https://peng-yo.github.io/posts/20230312193419-48laws_org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://peng-yo.github.io/posts/20230312193419-48laws_org/</guid>
+      <description>Law 1 永远不要对你的上头表现得更优秀 其他人可以不用管，但是一定要上头看起来比他实际上更聪明，让他爽。 必要的时候，要隐藏自己的优秀，要让自己表现得没那么聪明。
+原理 任何掌权的人都有一种不安全感，甚至普通人都有一种不安全感。因此，如果你表现得很优秀，就会成为他的眼中钉，他会倾向选出一个看起来比他更笨的人上去，更好控制，更有安全感。
+例子 伽利略用统治者的名字命名星系，统治者很高兴。 一个大臣为了讨好国王开宴会，因为太能表现于是惹得国王不爽了，找个机会就把他干掉了。
+test</description>
+      <content>&lt;h2 id=&#34;law-1-永远不要对你的上头表现得更优秀&#34;&gt;Law 1 永远不要对你的上头表现得更优秀&lt;/h2&gt;
+&lt;p&gt;其他人可以不用管，但是一定要上头看起来比他实际上更聪明，让他爽。
+必要的时候，要隐藏自己的优秀，要让自己表现得没那么聪明。&lt;/p&gt;
+&lt;h3 id=&#34;原理&#34;&gt;原理&lt;/h3&gt;
+&lt;p&gt;任何掌权的人都有一种不安全感，甚至普通人都有一种不安全感。因此，如果你表现得很优秀，就会成为他的眼中钉，他会倾向选出一个看起来比他更笨的人上去，更好控制，更有安全感。&lt;/p&gt;
+&lt;h3 id=&#34;例子&#34;&gt;例子&lt;/h3&gt;
+&lt;p&gt;伽利略用统治者的名字命名星系，统治者很高兴。
+一个大臣为了讨好国王开宴会，因为太能表现于是惹得国王不爽了，找个机会就把他干掉了。&lt;/p&gt;
+&lt;p&gt;test&lt;/p&gt;
 </content>
     </item>
     

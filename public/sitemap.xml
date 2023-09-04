@@ -2,17 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peng-yo.github.io/peng-yo/posts/first-posts/</loc>
+    <loc>https://peng-yo.github.io/posts/first-posts/</loc>
     <lastmod>2023-09-04T20:12:25+08:00</lastmod>
   </url><url>
-    <loc>https://peng-yo.github.io/peng-yo/</loc>
+    <loc>https://peng-yo.github.io/</loc>
     <lastmod>2023-09-04T20:12:25+08:00</lastmod>
   </url><url>
-    <loc>https://peng-yo.github.io/peng-yo/posts/</loc>
+    <loc>https://peng-yo.github.io/posts/</loc>
     <lastmod>2023-09-04T20:12:25+08:00</lastmod>
   </url><url>
-    <loc>https://peng-yo.github.io/peng-yo/categories/</loc>
+    <loc>https://peng-yo.github.io/posts/20230312193419-48laws_org/</loc>
   </url><url>
-    <loc>https://peng-yo.github.io/peng-yo/tags/</loc>
+    <loc>https://peng-yo.github.io/categories/</loc>
+  </url><url>
+    <loc>https://peng-yo.github.io/tags/</loc>
   </url>
 </urlset>
